@@ -1,0 +1,43 @@
+.topbg {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: blue;
+  height: 10vh;
+}
+.nav {
+}
+.logoHistory {
+  width: 100px;
+  height: 20px;
+}
+.searchlogo {
+  height: 50px;
+  width: 50px;
+  text-align: center;
+}
+.delete {
+  height: 50px;
+  width: 50px;
+}
+.time {
+  font-size: 20px;
+  color: grey;
+}
+.title {
+  font-size: 20px;
+  color: grey;
+}
+.logos {
+  height: 70px;
+  width: 70px;
+}
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  margin: 8px;
+}
